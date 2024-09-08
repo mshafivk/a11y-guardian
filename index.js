@@ -74,10 +74,7 @@ async function runA11yChecksForMultiplePages(urls) {
 }
 
 // target urls for a11y check - later can be passed via gui tool or can be moved to config
-const targetUrls = [
-  "http://localhost:4000/register",
-  "https://www.a11yproject.com/checklist/",
-];
+const targetUrls = ["https://www.a11yproject.com/checklist/"];
 
 runA11yChecksForMultiplePages(targetUrls).catch((err) => {
   console.error("Error running accessibility checks:", err);
