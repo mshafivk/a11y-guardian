@@ -1,8 +1,8 @@
-# Accessibility Tracker
+# Accessibility Guardian
 
 ## Overview
 
-**Accessibility Tracker** is a full-fledged application designed to periodically check websites for accessibility issues and generate detailed reports. It also provides intelligent analytics to help track improvements over time.
+**Accessibility Guardian** is a full-fledged application designed to periodically check websites for accessibility issues and generate detailed reports. It also provides intelligent analytics to help track improvements over time.
 
 ## License
 
